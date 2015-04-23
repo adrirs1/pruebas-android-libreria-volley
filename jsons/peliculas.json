@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "titulo": "El bosque encantado",
     "descripcion": "Un misterioso bosque que te hará temblar.",
@@ -57,7 +57,7 @@
   },
   {
     "titulo": "Don quijote",
-    "descripcion": "Las apasionantes historias de Don Quijote y Sancho Panza",
+    "descripcion": "Las apasionantes historias de Don Quijote y Sancho Panza.",
     "categoria": "Historia, Aventura, Documental",
     "año": 2015,
     "imagenUrl": "https://raw.githubusercontent.com/adrirs1/pruebas-android-libreria-volley/9ade685c517486370be1c43a5025671acdcb8b8b/imagenes/molino.jpg"
@@ -71,7 +71,7 @@
   },
   {
     "titulo": "Megalodon",
-    "descripcion": "Miami es atacado por un banco de tiburones blancos",
+    "descripcion": "Miami es atacado por un banco de tiburones blancos.",
     "categoria": "Terror, Acción",
     "año": 2015,
     "imagenUrl": "https://raw.githubusercontent.com/adrirs1/pruebas-android-libreria-volley/9ade685c517486370be1c43a5025671acdcb8b8b/imagenes/playa.jpg"
