@@ -75,12 +75,5 @@
     "categoria": "Terror, Acción",
     "año": 2015,
     "imagenUrl": "https://raw.githubusercontent.com/adrirs1/pruebas-android-libreria-volley/master/imagenes/playa.jpg"
-  },
-  {
-    "titulo": "El zorro",
-    "descripcion": "Animales sorprendentes de la naturaleza: el zorro.",
-    "categoria": "Naturaleza",
-    "año": 2008,
-    "imagenUrl": "https://raw.githubusercontent.com/adrirs1/pruebas-android-libreria-volley/master/imagenes/zorro.jpg"
   }
 ]
